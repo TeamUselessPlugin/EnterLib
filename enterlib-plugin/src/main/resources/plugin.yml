@@ -1,0 +1,10 @@
+name: ${name}
+version: ${version}
+main: ${group}.enterlib.plugin.Main
+api-version: 1.13
+authors: [ TeamUselessPlugin ]
+website: https://github.com/TeamUselessPlugin/EnterLib
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.9.22
+  - org.jetbrains.kotlin:kotlin-reflect:1.9.22
+  - org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3
