@@ -1,4 +1,4 @@
-package io.github.teamuselessplugin.enterlib;
+package io.github.teamuselessplugin.enterlib
 
-public class sample {
+class sample {
 }
