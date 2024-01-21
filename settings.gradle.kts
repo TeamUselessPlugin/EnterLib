@@ -1,4 +1,4 @@
-rootProject.name = "EnterLib"
+rootProject.name = "sample"
 
 val libName = rootProject.name.lowercase()
 
